@@ -1,8 +1,8 @@
-Playwright scripts 
+**Playwright scripts** 
 
 Contains 1 file with all combines testscripts (1.CombinedScript.spec)
 
-**Testscripts are based on functionality of todo list **
+**Testscripts are based on functionality of todo list**
 1.Add functionality (1.VerifyAdd Functionality.spec)
 2.Edit functionality (2.VerifyEditFunctionality.spec)
 3.Delete functionality (3.VerifyDeleteFunctionality.spec)
@@ -10,7 +10,8 @@ Contains 1 file with all combines testscripts (1.CombinedScript.spec)
 
 Run either one of the above to test specific functionalities 
 
-**Run the following scripts to run all at once **
+**Run the following scripts to run all at once**
+
 Combined script.spec
 
 Current yml file configured to run 1.CombinedScript.spec
