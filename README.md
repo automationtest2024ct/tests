@@ -1,6 +1,6 @@
 Playwright scripts 
 
-Contains 1 file with all combines testscripts 
+Contains 1 file with all combines testscripts (Combined script.spec)
 
 Testscripts are based on functionality of todo list 
 1.Add functionality (1. Verify add functionality.spec)
