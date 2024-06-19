@@ -3,6 +3,7 @@
 Contains 1 file with all combines testscripts (1.CombinedScript.spec)
 
 **Testscripts are based on functionality of todo list**
+
 1.Add functionality (1.VerifyAdd Functionality.spec)
 
 2.Edit functionality (2.VerifyEditFunctionality.spec)
