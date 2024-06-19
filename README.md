@@ -2,7 +2,7 @@
 
 Contains 1 file with all combines testscripts (1.CombinedScript.spec)
 
-**Testscripts are based on functionality of todo list**
+**Testscripts created are based on functionality of todo list**
 
 1.Add functionality (1.VerifyAdd Functionality.spec)
 
