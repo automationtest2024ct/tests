@@ -18,10 +18,9 @@ Run either one of the above to test specific functionalities
 
 Combined script.spec
 
-
 Test is run by configuration file of github workflow file. Configuration file installs needed dependencies and runs test with a result output. 
 
 Current yml file configured to run 1.CombinedScript.spec
 
-
+Modify line: npx playwright test tests/todo-page.spec.ts to change script that will run 
 
